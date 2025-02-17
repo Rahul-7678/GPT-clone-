@@ -1,0 +1,26 @@
+# Python cache files  
+__pycache__/  
+*.pyc  
+*.pyo  
+
+# Virtual environment  
+venv/  
+env/  
+
+# Configuration files  
+*.env  
+config.json  
+
+# Node modules (if used)  
+node_modules/  
+
+# Database files  
+*.sqlite3  
+*.db  
+
+# Compiled files  
+*.log  
+*.pid  
+
+# VS Code settings  
+.vscode/
